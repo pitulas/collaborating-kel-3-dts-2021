@@ -1,10 +1,10 @@
 # Members
 
-1. Bakhtiyar
-2. Rahmawati
-3. Dyah
-4. Maulana
-5. Zazhil
+1. Bakhtiyar [login dan register]
+2. Rahmawati [logout]
+3. Dyah [search menu]
+4. Maulana [payment]
+5. Zazhil [shipping order]
 
 # Git Basic
 
