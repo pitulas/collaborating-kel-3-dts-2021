@@ -1,3 +1,11 @@
+# Members
+
+1. Bakhtiyar
+2. Rahmawati
+3. Dyah
+4. Maulana
+5. Zazhil
+
 # Git Basic
 
 1. SC 1
