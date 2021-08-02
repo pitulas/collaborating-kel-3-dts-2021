@@ -1,0 +1,14 @@
+Feature
+- Jenis pembayaran
+- Nominal
+- dll...
+
+terserah sih 
+gak fokus fitur2nya
+ini coba aja
+
+iya teman2 masing2 buat tasknya
+
+iya clone dulu
+
+menambah file payment git add .
